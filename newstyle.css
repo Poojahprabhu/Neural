@@ -1,0 +1,27 @@
+#table1{
+    border-collapse: collapse;
+    
+}
+#table1 td{
+    border: 1px solid blue;
+    
+}
+
+#table2{
+    border-collapse: collapse;
+ 
+}
+
+#table2 td{
+    border: 1px solid blue;
+}
+
+
+tr:hover{
+    color:blueviolet;
+}
+
+a{
+    float: left;
+    margin: 10px;
+}
